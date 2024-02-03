@@ -14,3 +14,6 @@
 ```
 rundll32.exe powrprof.dll, SetSuspendState Sleep
 ```
+
+# Excel
+1. Shortcut to select all the rows in a column: `Ctrl + space`
